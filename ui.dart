@@ -16,7 +16,6 @@ class _UIState extends State<UI> {
 
   @override
   Widget build(BuildContext context) {
-    /*Size size= MediaQuery.of(context).size;*/ /*for dynamic sizing*/
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
